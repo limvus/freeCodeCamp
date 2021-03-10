@@ -170,3 +170,6 @@ api-server/lib/*
 curriculum/dist
 curriculum/build
 client/static/_redirects
+
+### Ctags
+tags
